@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493199745033",
+    "project_id": "andriodfcm-4f65d",
+    "storage_bucket": "andriodfcm-4f65d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493199745033:android:ebb58ed89785dba266d8d8",
+        "android_client_info": {
+          "package_name": "com.example.fcmpushmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493199745033-klucnfnq9ehr22lo91p8oo94op251jq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdutip22AeDYHpI_q2-zXbOWF6b29dIW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493199745033-klucnfnq9ehr22lo91p8oo94op251jq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
